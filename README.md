@@ -1,28 +1,29 @@
 <div align="center">
 
 # PointSav Fleet Manifest | Manifiesto de Flota PointSav
-### *Internal Production Orchestration & Sovereign Edge Infrastructure*
-**Vancouver | New York | Berlin**
+### *Internal Production and Edge Infrastructure*
 
 </div>
 
----
+<br/>
 
-## 📡 Deployment Matrix (Sovereign Substrate)
-This manifest maps the sovereign infrastructure of the PointSav OS. Every node operates as a bit-for-bit duplicate of the engineering Foundry, ensuring **Absolute Structural Parity**.
+> [!WARNING]
+> **COMPLIANCE & SECURITY NOTICE**
+> This repository maps our public edge delivery network. It stores zero proprietary corporate data or isolated Totebox archives.
 
-| Node ID | Substrate | Role | Compliance |
-| :--- | :--- | :--- | :--- |
-| **node-ps-edge-01** | `os-mediakit` | Public Showcase & Intelligence | SYS-ADR-14 |
-| **node-foundry-brain** | `os-network-admin` | Command Authority & Source | SYS-SEC-01 |
-| **node-cloud-relay** | `os-infrastructure` | Private Mesh Anchor | PPN-01 |
+| System Status | Component Type | Regulatory Standard |
+| :--- | :--- | :--- |
+| 🟢 Active | Fleet Manifest | BCSC Continuous Disclosure |
 
-## 🏗️ Architectural Mandate: Userspace Isolation
-To maximize resource efficiency on commercial cloud hardware, we utilize **Sovereign Userspace Partitioning**. This pattern simulates the strict hardware boundaries of the seL4 microkernel by isolating each node within its own cryptographically anchored Linux userspace.
+## 📖 The Deployment Matrix
+This manifest maps our active physical and virtual servers. Every active node mirrors our internal engineering foundry. This ensures absolute structural parity across our network.
+
+| Node ID | Physical Role | Security Compliance |
+| :--- | :--- | :--- |
+| **node-ps-edge-01** | Public Intelligence | Active Standard |
+| **node-foundry-brain** | Command Authority | Active Standard |
+| **node-cloud-relay** | Private Mesh Anchor | Active Standard |
 
 ---
 *© 2026 PointSav Digital Systems™.*
-
-> **Directory Nomenclature Ledger**
-> All files committed to this directory MUST adhere to the following strict prefix taxonomy:
-> * `GUIDE-*`: Step-by-step operational deployment manuals.
+*Public Architectural Disclosure. Governed by the Sovereign Data Protocol.*

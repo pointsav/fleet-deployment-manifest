@@ -1,11 +1,28 @@
-# PointSav Fleet Showcase: vault-privategit-design-system
-### *Autonomous Edge Node Architecture*
+<div align="center">
 
-**Status: Generic Showcase** | **Silo: factory-pointsav**
+# Edge Delivery Node | Nodo de Entrega de Borde
+### *An autonomous deployment manifest for sovereign public infrastructure.*
 
-## 📜 Operational Mandate
-This directory serves as the public structural manifest for the vault-privategit-design-system node within the PointSav Sovereign Fleet.
+</div>
 
-> **Directory Nomenclature Ledger**
-> All files committed to this directory MUST adhere to the following strict prefix taxonomy:
-> * `GUIDE-*`: Step-by-step operational deployment manuals.
+<br/>
+
+> [!WARNING]
+> **SOVEREIGN FRAMEWORK DECLARATION**
+> This repository is a reference implementation of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero active proprietary network payloads.
+
+| Architecture Tier | Component Role | Governance Anchor |
+| :--- | :--- | :--- |
+| 🟡 Provisioning | Edge Node | Sovereign Disclosure Standard |
+
+## 📖 Architectural Audit Placeholder
+This directory serves as a structural placeholder. It maps directly to the edge delivery matrix. 
+
+## ⚙️ Execution Playbooks
+This index routes to the physical execution commands required to provision this node.
+
+* [➔ GUIDE-PROVISION-NODE](GUIDE-PROVISION-NODE.md)
+
+---
+*© 2026 PointSav Digital Systems™.*
+*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
